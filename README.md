@@ -49,7 +49,8 @@ The input feature list can be also obtained by
 ## Dependencies 
 
 This software was originally designed with Python 3.6.13. Standard python software packages used: numpy (1.20.3), pandas (1.3.2), scikit-learn (0.22.2 or 0.21.3), shap (0.39.0), matplotlib (3.4.2).
-** The _model/IMPACT-20/IMPACT_5_year_top20.pickle.dat_ and _model/IMPACT-20/IMPACT_5_year_Demo_Lab_top20.pickle.dat_ must be loaded using scikit-learn (0.21.3).**
+
+**The _model/IMPACT-20/IMPACT_5_year_top20.pickle.dat_ and _model/IMPACT-20/IMPACT_5_year_Demo_Lab_top20.pickle.dat_ must be loaded using scikit-learn (0.21.3).**
 
 ## References
 
