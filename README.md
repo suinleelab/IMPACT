@@ -19,11 +19,19 @@ The overlapping features' information between NHANES and UK Biobank can be found
 Data cannot be shared publicly by the authors because of information governance restrictions around health data. The data can however be downloaded following a project approval process by the UK Biobank. Researchers wishing to access the data can apply directly to the UK Biobank https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access and the process involves registering on the access management system, submitting a research study protocol and paying a fee directly to the UK Biobank. UK Biobank is an open access research resource for researchers and accepts applications with no restriction.
 
 ## Models
-All of the mortality prediction models are available in **./model/**. We also share the explicands and SHAP values:
+All of the mortality prediction models are available in **model/NHANES_xxx/**. Please find the input feature list in **_model/model_features.csv_**. We also share the explicands and SHAP values:
 - **_model.pickle.dat_**: the trained xgboost model
 - **_fore_data.csv_**: the explicands when calculating the SHAP values
 - **_shap_values.npy_**: the SHAP values
 
+The model for IMPACT-20 mortality risk scores are available in **_model/IMPACT-20/_**. Please find the input feature list in **_model/IMPACT-20/IMPACT-20_features.csv_**
+
+The input feature list can be also obtained by
+    ```
+    import pickle
+    model = pickle.load(open(model_path, 'rb')
+    print(model.get_booster().feature_names)
+    ```
 ## Code
 ### Model training
 - **_shap_NHANES_classification.py_**: code for mortality prediction model training and SHAP values calculation
@@ -40,7 +48,8 @@ All of the mortality prediction models are available in **./model/**. We also sh
 
 ## Dependencies 
 
-This software was originally designed with Python 3.8.11. Standard python software packages used: numpy (1.20.3), pandas (1.3.2), scikit-learn (0.22.2), shap (0.39.0), matplotlib (3.4.2).
+This software was originally designed with Python 3.6.13. Standard python software packages used: numpy (1.20.3), pandas (1.3.2), scikit-learn (0.22.2 or 0.21.3), shap (0.39.0), matplotlib (3.4.2).
+** The _model/IMPACT-20/IMPACT_5_year_top20.pickle.dat_ and _model/IMPACT-20/IMPACT_5_year_Demo_Lab_top20.pickle.dat_ must be loaded using scikit-learn (0.21.3).**
 
 ## References
 
