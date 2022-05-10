@@ -6,37 +6,37 @@ Code for paper "Interpretable machine learning prediction of all-cause mortality
 ## Data
 
 ### NHANES
-Please find the NHANES data in **data/NHANES/NHANES.csv**.
+Please find the NHANES data in **_data/NHANES/NHANES.csv_**.
 Here are the mortality labels:
 - mortstat: mortality status (0=Assumed alive, 1=Assumed deceased
 - permth_int: person months from the date of interview to the date of death or the end of the mortality period
 - x_year_label (x=1,2,3,4,5): the label for x-year mortality prediction
-More description of the features can be found in **data/NHANES/NHANES_feature_list.csv**
+More description of the features can be found in **_data/NHANES/NHANES_feature_list.csv_**
 
 ### UK Biobank
-Data cannot be shared publicly by the authors because of information governance restrictions around health data. The data can however be downloaded following a project approval process by the UK Biobank. Researchers wishing to access the data can apply directly to the UK Biobank https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access and the process involves registering on the access management system, submitting a research study protocol and paying a fee directly to the UK Biobank. UK Biobank is an open access research resource for researchers and accepts applications with no restriction.
+The overlapping features' information between NHANES and UK Biobank can be found in **_data/UKB/overlapped_NHANES_UKB.csv_**
 
-The overlapping features' information between NHANES and UK Biobank can be found in **data/UKB/overlapped_NHANES_UKB.csv**
+Data cannot be shared publicly by the authors because of information governance restrictions around health data. The data can however be downloaded following a project approval process by the UK Biobank. Researchers wishing to access the data can apply directly to the UK Biobank https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access and the process involves registering on the access management system, submitting a research study protocol and paying a fee directly to the UK Biobank. UK Biobank is an open access research resource for researchers and accepts applications with no restriction.
 
 ## Models
 All of the mortality prediction models are available in **./model/**. We also share the explicands and SHAP values:
-- model.pickle.dat: the trained xgboost model
-- fore_data.csv: the explicands when calculating the SHAP values
-- shap_values.npy: the SHAP values
+- **_model.pickle.dat_**: the trained xgboost model
+- **_fore_data.csv_**: the explicands when calculating the SHAP values
+- **_shap_values.npy_**: the SHAP values
 
 ## Code
-- Model training
-  - **shap_NHANES_classification.py**: code for mortality prediction model training and SHAP values calculation
-  - **mortality_risk_scores_feature_elimination.ipynb**: code for mortality risk scores training and feature elimination
-  - **supervised_distance_feature_elimination.ipynb**: code for supervised distance calculation and supervised distance-based feature elimination approach
-- Visualization
-**supervised_distance_feature_elimination.ipynb** process results from the IMPACT framework and generate figures presented in the paper:
-  - SHAP summary plot
-  - SHAP values plot
-  - SHAP main effect plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
-  - SHAP interaction plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
-  - SHAP individualized plot
-  - Partial dependence plot for reference interval
+### Model training
+- **_shap_NHANES_classification.py_**: code for mortality prediction model training and SHAP values calculation
+- **_mortality_risk_scores_feature_elimination.ipynb_**: code for mortality risk scores training and feature elimination
+- **_supervised_distance_feature_elimination.ipynb_**: code for supervised distance calculation and supervised distance-based feature elimination approach
+### Visualization
+**_supervised_distance_feature_elimination.ipynb_** process results from the IMPACT framework and generate figures presented in the paper:
+- SHAP summary plot
+- SHAP values plot
+- SHAP main effect plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
+- SHAP interaction plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
+- SHAP individualized plot
+- Partial dependence plot for reference interval
 
 ## Dependencies 
 
