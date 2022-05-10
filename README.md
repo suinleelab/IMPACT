@@ -6,25 +6,25 @@ Code for paper "Interpretable machine learning prediction of all-cause mortality
 ## Data
 
 ### NHANES
-Please find the NHANES data in **_data/NHANES/NHANES.csv_**.
+Please find the NHANES data in `./data/NHANES/NHANES.csv`.
 Here are the mortality labels:
 - mortstat: mortality status (0=Assumed alive, 1=Assumed deceased
 - permth_int: person months from the date of interview to the date of death or the end of the mortality period
 - x_year_label (x=1,2,3,4,5): the label for x-year mortality prediction
-More description of the features can be found in **_data/NHANES/NHANES_feature_list.csv_**
+More description of the features can be found in `./data/NHANES/NHANES_feature_list.csv`
 
 ### UK Biobank
-The overlapping features' information between NHANES and UK Biobank can be found in **_data/UKB/overlapped_NHANES_UKB.csv_**
+The overlapping features' information between NHANES and UK Biobank can be found in `./data/UKB/overlapped_NHANES_UKB.csv`
 
 Data cannot be shared publicly by the authors because of information governance restrictions around health data. The data can however be downloaded following a project approval process by the UK Biobank. Researchers wishing to access the data can apply directly to the UK Biobank https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access and the process involves registering on the access management system, submitting a research study protocol and paying a fee directly to the UK Biobank. UK Biobank is an open access research resource for researchers and accepts applications with no restriction.
 
 ## Models
-All of the mortality prediction models are available in **model/NHANES_xxx/**. Please find the input feature list in **_model/model_features.csv_**. We also share the explicands and SHAP values:
+All of the mortality prediction models are available in **model/NHANES_xxx/**. Please find the input feature list in `./model/model_features.csv`. We also share the explicands and SHAP values:
 - **_model.pickle.dat_**: the trained xgboost model
 - **_fore_data.csv_**: the explicands when calculating the SHAP values
 - **_shap_values.npy_**: the SHAP values
 
-The model for IMPACT-20 mortality risk scores are available in **_model/IMPACT-20/_**. Please find the input feature list in **_model/IMPACT-20/IMPACT-20_features.csv_**
+The model for IMPACT-20 mortality risk scores are available in `./model/IMPACT-20/`. Please find the input feature list in `./model/IMPACT-20/IMPACT-20_features.csv`
 
 The input feature list can be also obtained by
     ```
@@ -34,15 +34,15 @@ The input feature list can be also obtained by
     ```
 ## Code
 ### Model training
-- **_shap_NHANES_classification.py_**: code for mortality prediction model training and SHAP values calculation
-- **_mortality_risk_scores_feature_elimination.ipynb_**: code for mortality risk scores training and feature elimination
-- **_supervised_distance_feature_elimination.ipynb_**: code for supervised distance calculation and supervised distance-based feature elimination approach
+- `shap_NHANES_classification.py`: code for mortality prediction model training and SHAP values calculation
+- `mortality_risk_scores_feature_elimination.ipynb`: code for mortality risk scores training and feature elimination
+- `supervised_distance_feature_elimination.ipynb`: code for supervised distance calculation and supervised distance-based feature elimination approach
 ### Visualization
-**_supervised_distance_feature_elimination.ipynb_** process results from the IMPACT framework and generate figures presented in the paper:
+`supervised_distance_feature_elimination.ipynb` process results from the IMPACT framework and generate figures presented in the paper:
 - SHAP summary plot
 - SHAP values plot
-- SHAP main effect plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
-- SHAP interaction plot: please calculate the SHAP interaction values using **shap_NHANES_classification.py** before generating the SHAP main effect plot
+- SHAP main effect plot: please calculate the SHAP interaction values using `shap_NHANES_classification.py` before generating the SHAP main effect plot
+- SHAP interaction plot: please calculate the SHAP interaction values using `shap_NHANES_classification.py` before generating the SHAP main effect plot
 - SHAP individualized plot
 - Partial dependence plot for reference interval
 
@@ -50,7 +50,7 @@ The input feature list can be also obtained by
 
 This software was originally designed with Python 3.6.13. Standard python software packages used: numpy (1.20.3), pandas (1.3.2), scikit-learn (0.22.2 or 0.21.3), shap (0.39.0), matplotlib (3.4.2).
 
-**The _model/IMPACT-20/IMPACT_5_year_top20.pickle.dat_ and _model/IMPACT-20/IMPACT_5_year_Demo_Lab_top20.pickle.dat_ must be loaded using scikit-learn (0.21.3).**
+**The `./model/IMPACT-20/IMPACT_5_year_top20.pickle.dat` and `./model/IMPACT-20/IMPACT_5_year_Demo_Lab_top20.pickle.dat` must be loaded using scikit-learn (0.21.3).**
 
 ## References
 
