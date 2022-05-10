@@ -1,0 +1,227 @@
+Type_Feature,Feature,210 features,170 features,Description,Con_Cat,Nominal,Max_value,url,Questions,Short Feature Name,Type_Short_Name
+Demographics_DMDCITZN,DMDCITZN,1,1,Citizenship Status,1.0,1,2,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#DMDCITZN,,Citizenship,Demographics_Citizenship
+Demographics_DMDEDUC2,DMDEDUC2,1,1,Education Level - Adults 20+,1.0,0,5,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#DMDEDUC2,,Education,Demographics_Education
+Demographics_DMDHHSIZ,DMDHHSIZ,1,1,Total number of people in the Household,0.0,0,7,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#DMDHHSIZ,,HouseholdSize,Demographics_HouseholdSize
+Demographics_DMDMARTL,DMDMARTL,1,1,Marital Status,1.0,1,6,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#DMDMARTL,,MaritalStatus,Demographics_MaritalStatus
+Demographics_INDFMPIR,INDFMPIR,1,1,Ratio of family income to poverty,0.0,0,5,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#INDFMPIR,,IncomeRatio,Demographics_IncomeRatio
+Demographics_RIAGENDR,RIAGENDR,1,1,Gender,1.0,1,2,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#RIAGENDR,,Gender,Demographics_Gender
+Demographics_RIDAGEYR,RIDAGEYR,1,1,Age at Screening Adjudicated - Recode,0.0,0,80,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#RIDAGEYR,,Age,Demographics_Age
+Demographics_RIDEXMON,RIDEXMON,0,0,Six month time period (when examination was performed),1.0,1,2,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#RIDEXMON,,ExamPeriod,Demographics_ExamPeriod
+Demographics_RIDRETH1,RIDRETH1,1,1,Race/Ethnicity - Recode,1.0,1,5,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#RIDRETH1,,RaceEthnicity,Demographics_RaceEthnicity
+Demographics_SDDSRVYR,SDDSRVYR,1,1,Data Release Number,1.0,0,100,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#SDDSRVYR,,ReleaseCycle,Demographics_ReleaseCycle
+Demographics_WTINT2YR,WTINT2YR,0,0,Full Sample 2 Year Interview Weight,0.0,0,0,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#WTINT2YR,,InterviewWeight,Demographics_InterviewWeight
+Demographics_WTMEC2YR,WTMEC2YR,0,0,Full Sample 2 Year MEC Exam Weight,0.0,0,0,http://data.nber.org/nhanes/2009-2010/DEMO_F.htm#WTMEC2YR,What is MEC?,MECWeight,Demographics_MECWeight
+Dietary_DR1CCMNM,DR1CCMNM,1,0,Combination food number,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/DR1IFF_F.htm#DR1CCMNM,,CombinationFoodNumber,Dietary_CombinationFoodNumber
+Dietary_DR1TALCO,DR1TALCO,1,0,Alcohol (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TALCO,,Alcohol,Dietary_Alcohol
+Dietary_DR1TCAFF,DR1TCAFF,1,0,Caffeine (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCAFF,,Caffeine,Dietary_Caffeine
+Dietary_DR1TCALC,DR1TCALC,1,0,Calcium (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCALC,,Calcium,Dietary_Calcium
+Dietary_DR1TCARB,DR1TCARB,1,0,Carbohydrate (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCARB,,Carbohydrate,Dietary_Carbohydrate
+Dietary_DR1TCHOL,DR1TCHOL,1,0,Cholesterol (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCHOL,,Cholesterol,Dietary_Cholesterol
+Dietary_DR1TCOPP,DR1TCOPP,1,0,Copper (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCOPP,,Copper,Dietary_Copper
+Dietary_DR1TFIBE,DR1TFIBE,1,0,Dietary fiber (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TFIBE,,DietaryFiber,Dietary_DietaryFiber
+Dietary_DR1TFOLA,DR1TFOLA,1,0,Total folate (mcg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TFOLA,,Folate,Dietary_Folate
+Dietary_DR1TIRON,DR1TIRON,1,0,Iron (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TIRON,,Iron,Dietary_Iron
+Dietary_DR1TKCAL,DR1TKCAL,1,0,Energy (kcal),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TKCAL,,Energy,Dietary_Energy
+Dietary_DR1TM161,DR1TM161,1,0,MFA 16:1 (Hexadecenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TM161,,Hexadecenoic,Dietary_Hexadecenoic
+Dietary_DR1TM201,DR1TM201,1,0,MFA 20:1 (Eicosenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TM201,,Eicosenoic,Dietary_Eicosenoic
+Dietary_DR1TM221,DR1TM221,1,0,MFA 22:1 (Docosenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TM221,,Docosenoic,Dietary_Docosenoic
+Dietary_DR1TMAGN,DR1TMAGN,1,0,Magnesium (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TMAGN,,Magnesium,Dietary_Magnesium
+Dietary_DR1TMFAT,DR1TMFAT,1,0,Total monounsaturated fatty acids (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TMFAT,,MonounsaturatedFattyAcids,Dietary_MonounsaturatedFattyAcids
+Dietary_DR1TNIAC,DR1TNIAC,1,0,Niacin (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TNIAC,,Niacin,Dietary_Niacin
+Dietary_DR1TP183,DR1TP183,1,0,PFA 18:3 (Octadecatrienoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP183,,Octadecatrienoic,Dietary_Octadecatrienoic
+Dietary_DR1TP184,DR1TP184,1,0,PFA 18:4 (Octadecatetraenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP184,,Octadecatetraenoic,Dietary_Octadecatetraenoic
+Dietary_DR1TP204,DR1TP204,1,0,PFA 20:4 (Eicosatetraenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP204,,Eicosatetraenoic,Dietary_Eicosatetraenoic
+Dietary_DR1TP205,DR1TP205,1,0,PFA 20:5 (Eicosapentaenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP205,,Eicosapentaenoic,Dietary_Eicosapentaenoic
+Dietary_DR1TP225,DR1TP225,1,0,PFA 22:5 (Docosapentaenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP225,,Docosapentaenoic,Dietary_Docosapentaenoic
+Dietary_DR1TP226,DR1TP226,1,0,PFA 22:6 (Docosahexaenoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TP226,,Docosahexaenoic,Dietary_Docosahexaenoic
+Dietary_DR1TPFAT,DR1TPFAT,1,0,Total polyunsaturated fatty acids (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TPFAT,,PolyunsaturatedFattyAcids,Dietary_PolyunsaturatedFattyAcids
+Dietary_DR1TPHOS,DR1TPHOS,1,0,Phosphorus (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TPHOS,,Phosphorus,Dietary_Phosphorus
+Dietary_DR1TPOTA,DR1TPOTA,1,0,Potassium (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TPOTA,,Potassium,Dietary_Potassium
+Dietary_DR1TPROT,DR1TPROT,1,0,Protein (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TPROT,,Protein,Dietary_Protein
+Dietary_DR1TS040,DR1TS040,1,0,SFA 4:0 (Butanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS040,,Butanoic,Dietary_Butanoic
+Dietary_DR1TS060,DR1TS060,1,0,SFA 6:0 (Hexanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS060,,Hexanoic,Dietary_Hexanoic
+Dietary_DR1TS080,DR1TS080,1,0,SFA 8:0 (Octanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS080,,Octanoic,Dietary_Octanoic
+Dietary_DR1TS100,DR1TS100,1,0,SFA 10:0 (Decanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS100,,Decanoic,Dietary_Decanoic
+Dietary_DR1TS120,DR1TS120,1,0,SFA 12:0 (Dodecanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS120,,Dodecanoic,Dietary_Dodecanoic
+Dietary_DR1TS140,DR1TS140,1,0,SFA 14:0 (Tetradecanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS140,,Tetradecanoic,Dietary_Tetradecanoic
+Dietary_DR1TS160,DR1TS160,1,0,SFA 16:0 (Hexadecanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS160,,Hexadecanoic,Dietary_Hexadecanoic
+Dietary_DR1TS180,DR1TS180,1,0,SFA 18:0 (Octadecanoic) (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TS180,,Octadecanoic,Dietary_Octadecanoic
+Dietary_DR1TSELE,DR1TSELE,1,0,Selenium (mcg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TSELE,,Selenium,Dietary_Selenium
+Dietary_DR1TTFAT,DR1TTFAT,1,0,Total fat (gm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TTFAT,,TotalFat,Dietary_TotalFat
+Dietary_DR1TTHEO,DR1TTHEO,1,0,Theobromine (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TTHEO,,Theobromine,Dietary_Theobromine
+Dietary_DR1TVB1,DR1TVB1,1,0,Thiamin (Vitamin B1) (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TVB1,,VitaminB1,Dietary_VitaminB1
+Dietary_DR1TVB12,DR1TVB12,1,0,Vitamin B12 (mcg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TVB12,,VitaminB12,Dietary_VitaminB12
+Dietary_DR1TVB2,DR1TVB2,1,0,Riboflavin (Vitamin B2) (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TVB2,,VitaminB2,Dietary_VitaminB2
+Dietary_DR1TVB6,DR1TVB6,1,0,Vitamin B6 (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TVB6,,VitaminB6,Dietary_VitaminB6
+Dietary_DR1TVC,DR1TVC,1,0,Vitamin C,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TVC,,VitaminC,Dietary_VitaminC
+Dietary_DR1TZINC,DR1TZINC,1,0,Zinc (mg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TZINC,,Zinc,Dietary_Zinc
+Dietary_DRD340,DRD340,1,0,Shellfish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD340,,ShellfishEaten,Dietary_ShellfishEaten
+Dietary_DRD360,DRD360,1,0,Fish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD360,,FishEaten,Dietary_FishEaten
+Dietary_DRD370A,DRD370A,1,1,Breaded fish products eaten past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370A,,BreadedFish,Dietary_BreadedFish
+Dietary_DRD370B,DRD370B,1,1,Tuna eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370B,,Tuna,Dietary_Tuna
+Dietary_DRD370C,DRD370C,1,1,Bass eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370C,,Bass,Dietary_Bass
+Dietary_DRD370D,DRD370D,1,1,Catfish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370D,,Catfish,Dietary_Catfish
+Dietary_DRD370E,DRD370E,1,1,Cod eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370E,,Cod,Dietary_Cod
+Dietary_DRD370F,DRD370F,1,1,Flatfish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370F,,Flatfish,Dietary_Flatfish
+Dietary_DRD370G,DRD370G,1,1,Haddock eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370G,,Haddock,Dietary_Haddock
+Dietary_DRD370H,DRD370H,1,1,Mackerel eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370H,,Mackerel,Dietary_Mackerel
+Dietary_DRD370I,DRD370I,1,1,Perch eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370I,,Perch,Dietary_Perch
+Dietary_DRD370J,DRD370J,1,1,Pike eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370J,,Pike,Dietary_Pike
+Dietary_DRD370K,DRD370K,1,1,Pollock eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370K,,Pollock,Dietary_Pollock
+Dietary_DRD370L,DRD370L,1,1,Porgy eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370L,,Porgy,Dietary_Porgy
+Dietary_DRD370M,DRD370M,1,1,Salmon eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370M,,Salmon,Dietary_Salmon
+Dietary_DRD370N,DRD370N,1,1,Sardines eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370N,,Sardines,Dietary_Sardines
+Dietary_DRD370O,DRD370O,1,1,Sea bass eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370O,,SeaBass,Dietary_SeaBass
+Dietary_DRD370P,DRD370P,1,1,Shark eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370P,,Shark,Dietary_Shark
+Dietary_DRD370Q,DRD370Q,1,0,Swordfish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370Q,,Swordfish,Dietary_Swordfish
+Dietary_DRD370R,DRD370R,1,1,Trout eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370R,,Trout,Dietary_Trout
+Dietary_DRD370S,DRD370S,1,1,Walleye eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370S,,DWalleye,Dietary_DWalleye
+Dietary_DRD370T,DRD370T,1,1,Other fish eaten during past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370T,,OtherFish,Dietary_OtherFish
+Dietary_DRD370U,DRD370U,1,1,Other unknown fish eaten in past 30 days,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRD370U,,UnknownFish,Dietary_UnknownFish
+Dietary_DSD010,DSD010,1,1,Any Dietary Supplements Taken?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/DSQTOT_G.htm#DSD010,,DietarySupplement,Dietary_DietarySupplement
+Dietary_DSD070,DSD070,1,1,Was container seen?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DSQIDS_H.htm#DSD070,,DSContainerSeen,Dietary_DSContainerSeen
+Dietary_DSD090,DSD090,0,1,How long supplement taken (days)?,0.0,0,1000000,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DSQIDS_H.htm#DSD090,,DSDuration,Dietary_DSDuration
+Dietary_DSDANTA,DSDANTA,1,1,Antacid reported as a dietary supplement,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DSQIDS_H.htm#DSDANTA,,DSAntacid,Dietary_DSAntacid
+Dietary_DSDCOUNT,DSDCOUNT,1,1,Total # of Dietary Supplements Taken,0.0,0,70,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DSQTOT_H.htm#DSDCOUNT,,DSCount,Dietary_DSCount
+Dietary_DSDMTCH,DSDMTCH,1,1,Matching code,1.0,0,6,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DSQIDS_H.htm#DSDMTCH,,DSMatchingCode,Dietary_DSMatchingCode
+Dietary_WTDRD1_y,WTDRD1,1,1,Dietary day one sample weight,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1IFF_H.htm#WTDRD1,,DietaryWeight,Dietary_DietaryWeight
+Examination_BMXARMC,BMXARMC,1,1,Arm Circumference (cm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXARMC,,ArmCircum,Examination_ArmCircum
+Examination_BMXARML,BMXARML,1,1,Upper Arm Length (cm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXARML,,UpperArmLength,Examination_UpperArmLength
+Examination_BMXBMI,BMXBMI,1,1,Body Mass Index (kg/m**2),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXBMI,,BMI,Examination_BMI
+Examination_BMXHT,BMXHT,1,1,Standing Height (cm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXHT,,Height,Examination_Height
+Examination_BMXLEG,BMXLEG,1,1,Upper Leg Length (cm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXLEG,,UpperLegLength,Examination_UpperLegLength
+Examination_BMXWAIST,BMXWAIST,1,1,Waist Circumference (cm),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXWAIST,,WaistCircum,Examination_WaistCircum
+Examination_BMXWT,BMXWT,1,1,Weight (kg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BMX_G.htm#BMXWT,,Weight,Examination_Weight
+Examination_BPAARM,BPAARM,1,1,Arm selected,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPAARM,,BPArmSelected,Examination_BPArmSelected
+Examination_BPACSZ,BPACSZ,1,1,Coded cuff size,1.0,0,5,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPACSZ,,BPCuffSize,Examination_BPCuffSize
+Examination_BPAEN1,BPAEN1,1,1,Enhancement used first reading,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPAEN1,,BPReading1,Examination_BPReading1
+Examination_BPAEN2,BPAEN2,1,1,Enhancement used second reading,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPAEN2,,BPReading2,Examination_BPReading2
+Examination_BPAEN3,BPAEN3,1,1,Enhancement used third reading,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPAEN3,,BPReading3,Examination_BPReading3
+Examination_BPXDI1,BPXDI1,1,1,Diastolic: Blood pres (1st rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXDI1,,BPDiastolic1,Examination_BPDiastolic1
+Examination_BPXDI2,BPXDI2,1,1,Diastolic: Blood pres (2nd rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXDI2,,BPDiastolic2,Examination_BPDiastolic2
+Examination_BPXDI3,BPXDI3,1,1,Diastolic: Blood pres (3rd rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXDI3,,BPDiastolic3,Examination_BPDiastolic3
+Examination_BPXML1,BPXML1,1,1,MIL: maximum inflation levels (mm Hg),0.0,0,700,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXML1,,ExBPMaxInflationLevel,Examination_ExBPMaxInflationLevel
+Examination_BPXPLS,BPXPLS,1,1,60 sec. pulse (30 sec. pulse * 2),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXPLS,,BPPulse,Examination_BPPulse
+Examination_BPXPTY,BPXPTY,1,1,Pulse type,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXPTY,,BPPulseType,Examination_BPPulseType
+Examination_BPXPULS,BPXPULS,1,1,Pulse regular or irregular?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXPULS,,BPIrregularPulse,Examination_BPIrregularPulse
+Examination_BPXSY1,BPXSY1,1,1,Systolic: Blood pres (1st rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXSY1,,BPSystolic1,Examination_BPSystolic1
+Examination_BPXSY2,BPXSY2,1,1,Systolic: Blood pres (2nd rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXSY2,,BPSystolic2,Examination_BPSystolic2
+Examination_BPXSY3,BPXSY3,1,1,Systolic: Blood pres (3rd rdg) mm Hg,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/BPX_I.htm#BPXSY3,,BPSystolic3,Examination_BPSystolic3
+Examination_PEASCST1,PEASCST1,0,1,Blood Pressure Status,1.0,0,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BPX_H.htm#PEASCST1,,BPStatus,Examination_BPStatus
+Examination_PEASCTM1,PEASCTM1,0,1,Blood Pressure Time in Seconds,0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BPX_H.htm#PEASCTM1,,BPTimeSec,Examination_BPTimeSec
+Laboratory_LBDBANO,LBDBANO,1,1,Basophils number (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBDBANO,,Basophils,Laboratory_Basophils
+Laboratory_LBDBCDSI,LBDBCDSI,1,1,Blood cadmium (nmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/PBCD_F.htm#LBDBCDSI,,BloodCadmium,Laboratory_BloodCadmium
+Laboratory_LBDBPBSI,LBDBPBSI,1,0,Blood lead (umol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/PBCD_I.htm#LBDBPBSI,,BloodLeadSI,Laboratory_BloodLeadSI
+Laboratory_LBDEONO,LBDEONO,1,1,Eosinophils number (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBDEONO,,Eosinophils,Laboratory_Eosinophils
+Laboratory_LBDHBG,LBDHBG,1,1,Hepatitis B surface antigen,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HEPBD_I.htm#LBDHBG,,HepB,Laboratory_HepB
+Laboratory_LBDHD,LBDHD,1,1,Hepatitis D (anti-HDV),1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HEPBD_I.htm#LBDHD,,HepD,Laboratory_HepD
+Laboratory_LBDHI,LBDHI,0,1,HIV antibody test result,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HIV_H.htm#LBDHI,,HIVAntibodyTest,Laboratory_HIVAntibodyTest
+Laboratory_LBDIHGSI,LBDIHGSI,1,1,"Mercury, inorganic (umol/L )",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/IHGEM_G.htm#LBDIHGSI,,MercuryInorganic,Laboratory_MercuryInorganic
+Laboratory_LBDLYMNO,LBDLYMNO,1,1,Lymphocyte number (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CBC_F.htm#LBDLYMNO,,Lymphocyte,Laboratory_Lymphocyte
+Laboratory_LBDMONO,LBDMONO,1,1,Monocyte number (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CBC_F.htm#LBDMONO,,Monocyte,Laboratory_Monocyte
+Laboratory_LBDNENO,LBDNENO,1,1,Segmented neutrophils num (1000 cell/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CBC_F.htm#LBDNENO,,SegmentedNeutrophils,Laboratory_SegmentedNeutrophils
+Laboratory_LBDSALSI,LBDSALSI,1,0,Albumin (g/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSALSI,,AlbuminSI,Laboratory_AlbuminSI
+Laboratory_LBDSBUSI,LBDSBUSI,1,0,Blood urea nitrogen (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSBUSI,,BloodUreaNitrogenSI,Laboratory_BloodUreaNitrogenSI
+Laboratory_LBDSCASI,LBDSCASI,1,0,Total calcium (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSCASI,,CalciumSI,Laboratory_CalciumSI
+Laboratory_LBDSCHSI,LBDSCHSI,1,0,Cholesterol (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSCHSI,,CholesterolSI,Laboratory_CholesterolSI
+Laboratory_LBDSCRSI,LBDSCRSI,1,1,Creatinine (umol/L),,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BIOPRO_G.htm#LBDSCRSI,,Creatinine,Laboratory_Creatinine
+Laboratory_LBDSGBSI,LBDSGBSI,1,1,Globulin (g/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BIOPRO_G.htm#LBDSGBSI,,Globulin,Laboratory_Globulin
+Laboratory_LBDSGLSI,LBDSGLSI,1,0,"Glucose, refrigerated serum (mmol/L)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSGLSI,,GlucoseSI,Laboratory_GlucoseSI
+Laboratory_LBDSIRSI,LBDSIRSI,1,0,"Iron, refrigerated serum (umol/L)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBDSIRSI,,IronSI,Laboratory_IronSI
+Laboratory_LBDSPHSI,LBDSPHSI,1,1,Phosphorus (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BIOPRO_G.htm#LBDSPHSI,,Phosphorus,Laboratory_Phosphorus
+Laboratory_LBDSTBSI,LBDSTBSI,1,1,Total bilirubin (umol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BIOPRO_G.htm#LBDSTBSI,,TotalBilirubin,Laboratory_TotalBilirubin
+Laboratory_LBDSUASI,LBDSUASI,0,1,Uric acid (umol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BIOPRO_G.htm#LBDSUASI,,UricAcidSI,Laboratory_UricAcidSI
+Laboratory_LBDTHGSI,LBDTHGSI,0,1,"Mercury, total (umole/L)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/PBCD_F.htm#LBDTHGSI,,MercuryTotal,Laboratory_MercuryTotal
+Laboratory_LBXBAPCT,LBXBAPCT,1,1,Basophils percent (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXBAPCT,,BasophilsPercent,Laboratory_BasophilsPercent
+Laboratory_LBXBPB,LBXBPB,0,1,Blood lead (ug/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/PBCD_F.htm#LBXBPB,,BloodLead,Laboratory_BloodLead
+Laboratory_LBXCOT,LBXCOT,1,1,"Cotinine, Serum (ng/mL)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/COT_H.htm#LBXCOT,,Cotinine,Laboratory_Cotinine
+Laboratory_LBXEOPCT,LBXEOPCT,1,1,Eosinophils percent (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2009-2010/CBC_F.htm#LBXEOPCT,,EosinophilsPercent,Laboratory_EosinophilsPercent
+Laboratory_LBXGH,LBXGH,1,1,Glycohemoglobin (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/GHB_H.htm,,GlycohemoglobinPercent,Laboratory_GlycohemoglobinPercent
+Laboratory_LBXHA,LBXHA,1,1,Hepatitis A antibody,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HEPA_I.htm#LBXHA,,HepAAntibody,Laboratory_HepAAntibody
+Laboratory_LBXHBC,LBXHBC,1,1,Hepatitis B core antibody,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HEPBD_I.htm#LBXHBC,,HepBCoreAntibody,Laboratory_HepBCoreAntibody
+Laboratory_LBXHBS,LBXHBS,1,1,Hepatitis B Surface Antibody,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/HEPB_S_I.htm#LBXHBS,,HepBSurfaceAntibody,Laboratory_HepBSurfaceAntibody
+Laboratory_LBXHGB,LBXHGB,1,1,Hemoglobin (g/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXHGB,,Hemoglobin,Laboratory_Hemoglobin
+Laboratory_LBXLYPCT,LBXLYPCT,1,1,Lymphocyte percent (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXLYPCT,,LymphocytePercent,Laboratory_LymphocytePercent
+Laboratory_LBXMC,LBXMC,0,1,Mean cell hemoglobin concentration (g/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXMC,,MeanCellHemoglobinConcentration,Laboratory_MeanCellHemoglobinConcentration
+Laboratory_LBXMCHSI,LBXMCHSI,1,1,Mean cell hemoglobin (pg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXMCHSI,,MeanCellHemoglobin,Laboratory_MeanCellHemoglobin
+Laboratory_LBXMCVSI,LBXMCVSI,1,1,Mean cell volume (fL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXMCVSI,,MeanCellVolume,Laboratory_MeanCellVolume
+Laboratory_LBXMOPCT,LBXMOPCT,1,1,Monocyte percent (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXMOPCT,,MonocytePercent,Laboratory_MonocytePercent
+Laboratory_LBXMPSI,LBXMPSI,1,1,Mean platelet volume (fL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXMPSI,,MeanPlateletVolume,Laboratory_MeanPlateletVolume
+Laboratory_LBXNEPCT,LBXNEPCT,1,1,Segmented neutrophils percent (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXNEPCT,,SegmentedNeutrophilsPercent,Laboratory_SegmentedNeutrophilsPercent
+Laboratory_LBXPLTSI,LBXPLTSI,1,1,Platelet count (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXPLTSI,,PlateletCount,Laboratory_PlateletCount
+Laboratory_LBXRBCSI,LBXRBCSI,1,1,Red blood cell count (million cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXRBCSI,,RedBloodCellCount,Laboratory_RedBloodCellCount
+Laboratory_LBXRDW,LBXRDW,1,1,Red cell distribution width (%),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXRDW,,RedCellDistributionWidth,Laboratory_RedCellDistributionWidth
+Laboratory_LBXSAL,LBXSAL,0,1,Albumin (g/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSAL,,Albumin,Laboratory_Albumin
+Laboratory_LBXSASSI,LBXSASSI,1,1,Aspartate aminotransferase AST (IU/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSASSI,,AspartateAminotransferaseAST,Laboratory_AspartateAminotransferaseAST
+Laboratory_LBXSATSI,LBXSATSI,1,1,Alanine aminotransferase ALT (IU/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSATSI,,AlanineAminotransferaseALT,Laboratory_AlanineAminotransferaseALT
+Laboratory_LBXSBU,LBXSBU,0,1,Blood urea nitrogen (mg/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSBU,,BloodUreaNitrogen,Laboratory_BloodUreaNitrogen
+Laboratory_LBXSC3SI,LBXSC3SI,1,1,Bicarbonate (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSC3SI,,Bicarbonate,Laboratory_Bicarbonate
+Laboratory_LBXSCA,LBXSCA,0,1,Total calcium (mg/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSCA,,TotalCalcium,Laboratory_TotalCalcium
+Laboratory_LBXSCLSI,LBXSCLSI,1,1,Chloride (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSCLSI,,Chloride,Laboratory_Chloride
+Laboratory_LBXSGTSI,LBXSGTSI,1,1,Gamma glutamyl transferase (U/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSGTSI,,GammeGlutamylTransferase,Laboratory_GammeGlutamylTransferase
+Laboratory_LBXSIR,LBXSIR,0,1,"Iron, refrigerated serum (ug/dL)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSIR,,IronRefrigeratedSerum,Laboratory_IronRefrigeratedSerum
+Laboratory_LBXSKSI,LBXSKSI,1,1,Potassium (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSKSI,,Potassium,Laboratory_Potassium
+Laboratory_LBXSNASI,LBXSNASI,1,1,Sodium (mmol/L),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSNASI,,Sodium,Laboratory_Sodium
+Laboratory_LBXSOSSI,LBXSOSSI,1,1,Osmolality (mmol/Kg),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSOSSI,,Osmolality,Laboratory_Osmolality
+Laboratory_LBXSTP,LBXSTP,1,1,Total protein (g/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSTP,,TotalProtein,Laboratory_TotalProtein
+Laboratory_LBXSUA,LBXSUA,1,0,Uric acid (mg/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BIOPRO_H.htm#LBXSUA,,UricAcid,Laboratory_UricAcid
+Laboratory_LBXTC,LBXTC,0,1,Total Cholesterol (mg/dL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/TCHOL_H.htm#LBXTC,,TotalCholesterol,Laboratory_TotalCholesterol
+Laboratory_LBXTHG,LBXTHG,1,0,"Blood mercury, total (ug/L)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/PBCD_G.htm#LBXTHG,,BloodMercury,Laboratory_BloodMercury
+Laboratory_LBXWBCSI,LBXWBCSI,1,1,White blood cell count (1000 cells/uL),0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CBC_H.htm#LBXWBCSI,,WhiteBloodCellCount,Laboratory_WhiteBloodCellCount
+Laboratory_URXUMA,URXUMA,1,1,"Albumin, urine (ug/mL)",0.0,0,0,https://wwwn.cdc.gov/Nchs/Nhanes/2001-2002/L16_B.htm#URXUMA,,UrineAlbumin,Laboratory_UrineAlbumin
+Questionnaire_ALQ120Q,ALQ120Q,1,1,How often drink alcohol over past 12 mos,0.0,0,400,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ALQ_H.htm#ALQ120Q,,AlcoholFreqYrToDate,Questionnaire_AlcoholFreqYrToDate
+Questionnaire_ALQ120U,ALQ120U,1,1,"# days drink alcohol per wk, mo, yr",1.0,0,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ALQ_H.htm#ALQ120U,confused,AlcoholWkMoYr,Questionnaire_AlcoholWkMoYr
+Questionnaire_ALQ130,ALQ130,1,1,Avg # alcoholic drinks/day - past 12 mos,0.0,0,200,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/ALQ_H.htm#ALQ130,,AlcoholFreqDays,Questionnaire_AlcoholFreqDays
+Questionnaire_BPQ020,BPQ020,1,1,Ever told you had high blood pressure,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPQ_G.htm#BPQ020,,HighBloodPressure,Questionnaire_HighBloodPressure
+Questionnaire_BPQ060,BPQ060,1,1,Ever had blood cholesterol checked,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPQ_G.htm#BPQ060,,BloodCholesterolCheck,Questionnaire_BloodCholesterolCheck
+Questionnaire_BPQ070,BPQ070,1,1,When blood cholesterol last checked,1.0,0,4,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPQ_G.htm#BPQ070,,LastCholesterolCheck,Questionnaire_LastCholesterolCheck
+Questionnaire_BPQ080,BPQ080,1,1,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/BPQ_G.htm#BPQ080,,DoctorHighCholesterol,Questionnaire_DoctorHighCholesterol
+Questionnaire_CDQ010,CDQ010,1,1,{Have you/Has SP} had shortness of breath either when hurrying on the level or walking up a slight hill?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/CDQ_H.htm#CDQ010,,ShortnessOfBreath,Questionnaire_ShortnessOfBreath
+Questionnaire_DIQ010,DIQ010,1,1,Doctor told you have diabetes,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DIQ_H.htm#DIQ010,,DoctorDiabetes,Questionnaire_DoctorDiabetes
+Questionnaire_DIQ050,DIQ050,1,1,Taking insulin now,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DIQ_H.htm#DIQ050,,Insulin,Questionnaire_Insulin
+Questionnaire_HIQ210,HIQ210,1,1,Time when no insurance in past year?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HIQ_H.htm#HIQ210,,NoInsuranceTime,Questionnaire_NoInsuranceTime
+Questionnaire_HOD050,HOD050,1,1,Number of rooms in home,1.0,0,13,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HOQ_H.htm#HOD050,,RoomsInHome,Questionnaire_RoomsInHome
+Questionnaire_HOQ065,HOQ065,1,1,"Home owned, bought, rented, other",1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HOQ_H.htm#HOQ065,,HomeOwnBoughtRent,Questionnaire_HomeOwnBoughtRent
+Questionnaire_HSQ500,HSQ500,1,1,SP have head cold or chest cold,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.htm#HSQ500,,HeadChestCold,Questionnaire_HeadChestCold
+Questionnaire_HSQ510,HSQ510,1,1,SP have stomach or intestinal illness?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.htm#HSQ510,,StomachIllness,Questionnaire_StomachIllness
+Questionnaire_HSQ520,HSQ520,1,1,"SP have flu, pneumonia, ear infection?",1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.htm#HSQ520,,FluPneuomoniaEarInfection,Questionnaire_FluPneuomoniaEarInfection
+Questionnaire_HSQ590,HSQ590,1,1,Blood ever tested for HIV virus?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HSQ_H.htm#HSQ590,,HIVTest,Questionnaire_HIVTest
+Questionnaire_HUQ010,HUQ010,1,1,General health condition,1.0,0,5,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ010,,GeneralHealth,Questionnaire_GeneralHealth
+Questionnaire_HUQ020,HUQ020,1,1,Health now compared with 1 year ago,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ020,,HealthComparedToYearAgo,Questionnaire_HealthComparedToYearAgo
+Questionnaire_HUQ030,HUQ030,1,1,Routine place to go for healthcare,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ030,,HealthCareLocation,Questionnaire_HealthCareLocation
+Questionnaire_HUQ090,HUQ090,1,1,Seen mental health professional/past yr,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ090,,MentalHealthProfessional,Questionnaire_MentalHealthProfessional
+Questionnaire_IMQ020,IMQ020,1,1,Received Hepatitis B 3 dose series,1.0,0,3,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/IMQ_G.htm#IMQ020,,HepB3DoseSeries,Questionnaire_HepB3DoseSeries
+Questionnaire_MCQ010,MCQ010,1,1,Ever been told you have asthma,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ010,,Asthma,Questionnaire_Asthma
+Questionnaire_MCQ053,MCQ053,1,1,Taking treatment for anemia/past 3 mos,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ053,,AnemiaTreatment,Questionnaire_AnemiaTreatment
+Questionnaire_MCQ080,MCQ080,1,1,Doctor ever said you were overweight,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ080,,DoctorOverweight,Questionnaire_DoctorOverweight
+Questionnaire_MCQ092,MCQ092,1,1,Ever receive blood transfusion,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ092,,BloodTransfusion,Questionnaire_BloodTransfusion
+Questionnaire_MCQ160A,MCQ160A,1,1,Doctor ever said you had arthritis,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160a,,Arthritis,Questionnaire_Arthritis
+Questionnaire_MCQ160B,MCQ160B,1,1,Ever told had congestive heart failure,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160b,,DoctorCongestiveHeartFailure,Questionnaire_DoctorCongestiveHeartFailure
+Questionnaire_MCQ160C,MCQ160C,1,1,Ever told you had coronary heart disease,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160c,,DoctorCoronaryHeartDisease,Questionnaire_DoctorCoronaryHeartDisease
+Questionnaire_MCQ160D,MCQ160D,1,1,Ever told you had angina/angina pectoris,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160d,,DoctorAngina,Questionnaire_DoctorAngina
+Questionnaire_MCQ160E,MCQ160E,1,1,Ever told you had heart attack,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160e,,DoctorHeartAttack,Questionnaire_DoctorHeartAttack
+Questionnaire_MCQ160F,MCQ160F,1,1,Ever told you had a stroke,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160f,,DoctorStroke,Questionnaire_DoctorStroke
+Questionnaire_MCQ160G,MCQ160G,1,1,Ever told you had emphysema,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160g,,DoctorEmphysema,Questionnaire_DoctorEmphysema
+Questionnaire_MCQ160K,MCQ160K,1,1,Ever told you had chronic bronchitis,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160k,,DoctorChronicBronchitis,Questionnaire_DoctorChronicBronchitis
+Questionnaire_MCQ160L,MCQ160L,1,1,Ever told you had any liver condition,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ160l,,DoctorLiverCondition,Questionnaire_DoctorLiverCondition
+Questionnaire_MCQ220,MCQ220,1,1,Ever told you had cancer or malignancy,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/MCQ_I.htm#MCQ220,,DoctorCancer,Questionnaire_DoctorCancer
+Questionnaire_OCD270,OCD270,1,1,Number of months working in the main job,0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OCQ_H.htm#OCD270,,JobMonths,Questionnaire_JobMonths
+Questionnaire_OCD395,OCD395,1,1,Duration of longest job (months),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OCQ_H.htm#OCD395,,LongestJobDuration,Questionnaire_LongestJobDuration
+Questionnaire_OCQ260,OCQ260,1,1,Description of job/work situation,1.0,1,6,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/OCQ_H.htm#OCQ260,,JobDescription,Questionnaire_JobDescription
+Questionnaire_PFQ059,PFQ059,1,1,"Physical, mental, emotional limitations",1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PFQ_H.htm#PFQ059,,PhysicalMentalEmotionalLimits,Questionnaire_PhysicalMentalEmotionalLimits
+Questionnaire_PFQ090,PFQ090,1,1,"Require special healthcare equipment, such as a cane, a wheelchair, a special bed, or a special telephone?",1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/PFQ_H.htm#PFQ090,,SpecialHealthCareEquipment,Questionnaire_SpecialHealthCareEquipment
+Questionnaire_PHDSESN,PHDSESN,1,1,Session in which SP was examined,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FASTQX_H.htm#PHDSESN,,ExamSession,Questionnaire_ExamSession
+Questionnaire_PHQ020,PHQ020,1,1,Coffee or tea with cream or sugar?,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/FASTQX_H.htm#PHQ020,This sounds like questionnaire??,CoffeeOrTea,Questionnaire_CoffeeOrTea
+Questionnaire_PHQ030,PHQ030,1,1,"Alcohol, such as beer, wine, or liquor?",1.0,1,2,https://wwwn.cdc.gov/nchs/nhanes/2015-2016/fastqx_i.htm#PHQ030,This sounds like questionnaire??,Alcohol,Questionnaire_Alcohol
+Questionnaire_PHQ040,PHQ040,1,1,"Gum, mints, lozenges or cough drops",1.0,1,2,https://wwwn.cdc.gov/nchs/nhanes/2015-2016/fastqx_i.htm#PHQ040,This sounds like questionnaire??,GumMintsLozengeCoughDrop,Questionnaire_GumMintsLozengeCoughDrop
+Questionnaire_PHQ050,PHQ050,1,1,"Antacids, laxatives, or anti-diarrheals?",1.0,1,2,https://wwwn.cdc.gov/nchs/nhanes/2015-2016/fastqx_i.htm#PHQ050,This sounds like questionnaire??,AntacidsLaxativesAntiDiarrheal,Questionnaire_AntacidsLaxativesAntiDiarrheal
+Questionnaire_PHQ060,PHQ060,1,1,Dietary supplements?,1.0,1,2,https://wwwn.cdc.gov/nchs/nhanes/2015-2016/fastqx_i.htm#PHQ060,This sounds like questionnaire??,LabDietarySupplement,Questionnaire_LabDietarySupplement
+Questionnaire_SMQ020,SMQ020,1,1,Smoked at least 100 cigarettes in life,1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/SMQ_G.htm#SMQ020,,100Cigarettes,Questionnaire_100Cigarettes
+Questionnaire_WHD010,WHD010,1,1,Current self-reported height (inches),0.0,0,700,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD010,,SelfReportedHeight,Questionnaire_SelfReportedHeight
+Questionnaire_WHD020,WHD020,1,1,Current self-reported weight (pounds),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD020,,SelfReportedWeight,Questionnaire_SelfReportedWeight
+Questionnaire_WHD050,WHD050,1,1,Self-reported weight - 1 yr ago (pounds),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD050,,SelfReportedWeight1YrAgo,Questionnaire_SelfReportedWeight1YrAgo
+Questionnaire_WHD110,WHD110,1,1,Self-reported weight-10 yrs ago (pounds),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD110,,SelfReportedWeight10YrAgo,Questionnaire_SelfReportedWeight10YrAgo
+Questionnaire_WHD120,WHD120,1,1,Self-reported weight-age 25 (pounds),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD120,,SelfReportedWeightAge25,Questionnaire_SelfReportedWeightAge25
+Questionnaire_WHD140,WHD140,1,1,Self-reported greatest weight (pounds),0.0,0,7000,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHD140,,SelfReportedGreatestWeight,Questionnaire_SelfReportedGreatestWeight
+Questionnaire_WHQ030,WHQ030,1,1,How do you consider your weight,1.0,1,3,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHQ030,,ConsiderWeight,Questionnaire_ConsiderWeight
+Questionnaire_WHQ070,WHQ070,1,1,"During the past 12 months, {have you/has SP} tried to lose weight?",1.0,1,2,https://wwwn.cdc.gov/Nchs/Nhanes/2011-2012/WHQ_G.htm#WHQ070,,TriedToLoseWeight,Questionnaire_TriedToLoseWeight

@@ -1,0 +1,152 @@
+Type_Short_Name,Description,Display_Name,Change_0_1,Short_Display_Name
+Questionnaire_JobDescription_5.0,,Job description (Self-employed),,Job description (Self-employed)
+Laboratory_MeanCellHemoglobin,Mean cell hemoglobin (pg),Mean cell hemoglobin (pg),,Mean cell hemoglobin
+Examination_BPDiastolic1,Diastolic: Blood pres (1st rdg) mm Hg,Diastolic: Blood pres (1st rdg) mm Hg,,Diastolic: Blood pres (1st rdg)
+Questionnaire_SelfReportedWeight10YrAgo,Self-reported weight-10 yrs ago (pounds),Self-reported weight-10 yrs ago (pounds),,Self-reported weight-10 yrs ago
+Laboratory_AspartateAminotransferaseAST,Aspartate aminotransferase AST (IU/L),Aspartate aminotransferase AST (IU/L),,Aspartate aminotransferase AST
+Questionnaire_Alcohol_2.0,,"Had alcohol since today or yesterday (0-No, 1-Yes)",1,Had alcohol since today or yesterday
+Questionnaire_DoctorCancer_2.0,,"Cancer (0-No, 1-Yes)",1,Cancer
+Questionnaire_GumMintsLozengeCoughDrop_2.0,,"Had gum, breath mints, lozenges or cough drops since today or yesterday (0-No, 1-Yes)",1,"Had gum, breath mints, lozenges or cough drops since today or yesterday"
+Questionnaire_LastCholesterolCheck,When blood cholesterol last checked,When blood cholesterol last checked,,When blood cholesterol last checked
+Questionnaire_ExamSession_2.0,,Session in which SP was examined (evening),,Session in which SP was examined (evening)
+Laboratory_Eosinophils,Eosinophils number (1000 cells/uL),Eosinophils number (1000 cells/uL),,Eosinophils number
+Laboratory_HepD_2.0,,Hepatitis D (anti-HDV),1,Hepatitis D (anti-HDV)
+Laboratory_SegmentedNeutrophils,Segmented neutrophils num (1000 cell/uL),Segmented neutrophils num (1000 cell/uL),,Segmented neutrophils num
+Laboratory_AlanineAminotransferaseALT,Alanine aminotransferase ALT (IU/L),Alanine aminotransferase ALT (IU/L),,Alanine aminotransferase ALT
+Demographics_RaceEthnicity_2.0,,Race (Other Hispanic),,Race (Other Hispanic)
+Laboratory_HepB_2.0,,"Hepatitis B surface antigen (0-Negative, 1-Positive)",1,Hepatitis B surface antigen
+Demographics_HouseholdSize,Total number of people in the Household,Total number of people in the Household,,Total number of people in the Household
+Questionnaire_HomeOwnBoughtRent_2.0,,Home rented,,Home rented
+Questionnaire_DoctorCongestiveHeartFailure_2.0,,"Congestive heart failure (0-No, 1-Yes)",1,Congestive heart failure
+Laboratory_TotalBilirubin,Total bilirubin (umol/L),Total bilirubin (umol/L),,Total bilirubin
+Questionnaire_BloodTransfusion_2.0,,"Receive blood transfusion (0-No, 1-Yes)",1,Receive blood transfusion
+Questionnaire_DoctorCoronaryHeartDisease_2.0,,"Coronary heart disease (0-No, 1-Yes)",1,Coronary heart disease
+Questionnaire_ConsiderWeight_3.0,,How do you consider your weight (About the right weight),,How do you consider your weight (About the right weight)
+Laboratory_EosinophilsPercent,Eosinophils percent (%),Eosinophils percent (%),,Eosinophils percent
+Laboratory_BloodMercury,"Blood mercury, total (ug/L)","Blood mercury, total (ug/L)",,"Blood mercury, total"
+Laboratory_MeanCellVolume,Mean cell volume (fL),Mean cell volume (fL),,Mean cell volume
+Demographics_MaritalStatus_6.0,,Marital Status (Living with partner),,Marital Status (Living with partner)
+Laboratory_LymphocytePercent,Lymphocyte percent (%),Lymphocyte percent (%),,Lymphocyte percent
+Questionnaire_PhysicalMentalEmotionalLimits_2.0,,"Physical, mental, emotional limitations (0-No, 1-Yes)",1,"Physical, mental, emotional limitations"
+Laboratory_Basophils,Basophils number (1000 cells/uL),Basophils number (1000 cells/uL),,Basophils number
+Questionnaire_NoInsuranceTime_2.0,,"Was there any time when no insurance in past year (0-No, 1-Yes)",1,Was there any time when no insurance in past year
+Examination_BPSystolic3,Systolic: Blood pres (3rd rdg) mm Hg,Systolic: Blood pres (3rd rdg) mm Hg,,Systolic: Blood pres (3rd rdg)
+Demographics_MaritalStatus_4.0,,Marital Status (Separated),,Marital Status (Separated)
+Laboratory_BloodLeadSI,Blood lead (umol/L),Blood lead (umol/L),,Blood lead
+Laboratory_CholesterolSI,Cholesterol (mmol/L),"Cholesterol, serum (mmol/L)",,"Cholesterol, serum"
+Questionnaire_DoctorDiabetes_2.0,,Diabetes (No),,Diabetes (No)
+Laboratory_HepBCoreAntibody_2.0,,"Hepatitis B core antibody (0-Negative, 1-Positive)",1,Hepatitis B core antibody
+Examination_BPPulse,60 sec. pulse (30 sec. pulse * 2),60 sec. pulse (30 sec. pulse * 2),,60 sec. pulse
+Examination_BPReading1_2.0,,"Enhancement used first reading (0-No, 1-Yes)",1,Enhancement used first reading
+Examination_BPIrregularPulse_2.0,,Pulse irregular,,Pulse irregular
+Laboratory_AlbuminSI,Albumin (g/L),"Albumin, serum (g/L)",,"Albumin, serum"
+Questionnaire_AntacidsLaxativesAntiDiarrheal_2.0,,"Had antacids, laxatives, or anti-diarrheals since today or yesterday (0-No, 1-Yes)",1,"Had antacids, laxatives, or anti-diarrheals since today or yesterday"
+Demographics_MaritalStatus_2.0,,Marital Status (Widowed),2,Marital Status (Widowed)
+Questionnaire_DoctorHighCholesterol_2.0,,"High cholesterol level (0-No, 1-Yes)",1,High cholesterol level
+Laboratory_SegmentedNeutrophilsPercent,Segmented neutrophils percent (%),Segmented neutrophils percent (%),,Segmented neutrophils percent
+Laboratory_Osmolality,Osmolality (mmol/Kg),"Osmolality, serum (mmol/Kg)",,"Osmolality, serum"
+Questionnaire_HealthCareLocation_3.0,,Routine place to go for healthcare (There is more than one place),,Routine place to go for healthcare (There is more than one place)
+Questionnaire_Insulin_2.0,,"Taking insulin now (0-No, 1-Yes)",1,Taking insulin now
+Laboratory_BloodUreaNitrogenSI,Blood urea nitrogen (mmol/L),Blood urea nitrogen (mmol/L),,Blood urea nitrogen
+Questionnaire_AnemiaTreatment_2.0,,"Taking treatment for anemia/past 3 mos (0-No, 1-Yes)",1,Taking treatment for anemia/past 3 mos
+Questionnaire_DoctorStroke_2.0,,"Stroke (0-No, 1-Yes)",1,Stroke
+Laboratory_UricAcid,Uric acid (mg/dL),"Uric acid, serum (mg/dL)",,"Uric acid, serum"
+Demographics_IncomeRatio,Ratio of family income to poverty,Ratio of family income to poverty,,Ratio of family income to poverty
+Laboratory_Cotinine,"Cotinine, Serum (ng/mL)","Cotinine, Serum (ng/mL)",,"Cotinine, Serum"
+Laboratory_HepAAntibody_2.0,,Hepatitis A antibody (Negative),,Hepatitis A antibody (Negative)
+Questionnaire_GeneralHealth,General health condition,General health condition,,General health condition
+Demographics_MaritalStatus_5.0,,Marital Status (Never married),,Marital Status (Never married)
+Questionnaire_CoffeeOrTea_2.0,,"Had coffee or tea with cream or sugar since today or yesterday (0-No, 1-Yes)",1,Had coffee or tea with cream or sugar since today or yesterday
+Questionnaire_SelfReportedWeightAge25,Self-reported weight-age 25 (pounds),Self-reported weight-age 25 (pounds),,Self-reported weight-age 25
+Laboratory_RedBloodCellCount,Red blood cell count (million cells/uL),Red blood cell count (million cells/uL),,Red blood cell count
+Laboratory_Globulin,Globulin (g/L),"Globulin, serum (g/L)",,"Globulin, serum"
+Questionnaire_SpecialHealthCareEquipment_2.0,,"Require special healthcare equipment (0-No, 1-Yes)",1,Require special healthcare equipment
+Laboratory_Bicarbonate,Bicarbonate (mmol/L),"Bicarbonate, serum (mmol/L)",,"Bicarbonate, serum"
+Laboratory_UrineAlbumin,"Albumin, urine (ug/mL)","Albumin, urine (ug/mL)",,"Albumin, urine"
+Examination_UpperArmLength,Upper Arm Length (cm),Upper Arm Length (cm),,Upper Arm Length
+Laboratory_GammeGlutamylTransferase,Gamma glutamyl transferase (U/L),Gamma glutamyl transferase (U/L),,Gamma glutamyl transferase
+Examination_BPSystolic1,Systolic: Blood pres (1st rdg) mm Hg,Systolic: Blood pres (1st rdg) mm Hg,,Systolic: Blood pres (1st rdg)
+Examination_BPReading3_2.0,,"Enhancement used third reading (0-No, 1-Yes)",1,Enhancement used third reading
+Laboratory_PlateletCount,Platelet count (1000 cells/uL),Platelet count (1000 cells/uL),,Platelet count
+Demographics_Age,Age at Screening Adjudicated - Recode,Age,,Age
+Questionnaire_FluPneuomoniaEarInfection_2.0,,"Had flu, pneumonia, ear infection (0-No, 1-Yes)",1,"Had flu, pneumonia, ear infection"
+Questionnaire_DoctorDiabetes_3.0,,Diabetes (Borderline),,Diabetes (Borderline)
+Laboratory_GlucoseSI,"Glucose, refrigerated serum (mmol/L)","Glucose, refrigerated serum (mmol/L)",,"Glucose, refrigerated serum"
+Laboratory_Chloride,Chloride (mmol/L),"Chloride, serum (mmol/L)",,"Chloride, serum"
+Laboratory_GlycohemoglobinPercent,Glycohemoglobin (%),Glycohemoglobin (%),,Glycohemoglobin
+Demographics_Education,Education Level - Adults 20+,Education Level - Adults 20+,,Education Level - Adults 20+
+Questionnaire_DoctorOverweight_2.0,,"Overweight (0-No, 1-Yes)",1,Overweight
+Questionnaire_LabDietarySupplement_2.0,,"Dietary supplements (0-No, 1-Yes)",1,Dietary supplements
+Laboratory_HepAAntibody_3.0,,Hepatitis A antibody (Indeterminate),,Hepatitis A antibody (Indeterminate)
+Demographics_Gender_2.0,,"Gender (0-Male, 1-Female)",,Gender
+Examination_UpperLegLength,Upper Leg Length (cm),Upper Leg Length (cm),,Upper Leg Length
+Laboratory_HepBSurfaceAntibody_2.0,,"Hepatitis B Surface Antibody (0-Negative, 1-Positive)",1,Hepatitis B Surface Antibody
+Questionnaire_JobDescription_3.0,,Job Description (A state government employee),,Job Description (A state government employee)
+Questionnaire_JobDescription_6.0,,Job Description (Working without pay),,Job Description (Working without pay)
+Questionnaire_SelfReportedWeight,Current self-reported weight (pounds),Current self-reported weight (pounds),,Current self-reported weight
+Examination_ArmCircum,Arm Circumference (cm),Arm Circumference (cm),,Arm Circumference
+Laboratory_BloodCadmium,Blood cadmium (nmol/L),Blood cadmium (nmol/L),,Blood cadmium
+Laboratory_Lymphocyte,Lymphocyte number (1000 cells/uL),Lymphocyte number (1000 cells/uL),,Lymphocyte number
+Examination_Weight,Weight (kg),Weight (kg),,Weight
+Laboratory_BasophilsPercent,Basophils percent (%),Basophils percent (%),,Basophils percent
+Questionnaire_HealthCareLocation_2.0,,Routine place to go for healthcare (There is no place),,Routine place to go for healthcare (There is no place)
+Questionnaire_BloodCholesterolCheck_2.0,,"Had blood cholesterol checked (0-No, 1-Yes)",1,Had blood cholesterol checked
+Examination_BPReading2_2.0,,"Enhancement used second reading (0-No, 1-Yes)",1,Enhancement used second reading
+Examination_BPDiastolic3,Diastolic: Blood pres (3rd rdg) mm Hg,Diastolic: Blood pres (3rd rdg) mm Hg,,Diastolic: Blood pres (3rd rdg)
+Examination_WaistCircum,Waist Circumference (cm),Waist Circumference (cm),,Waist Circumference
+Questionnaire_DoctorLiverCondition_2.0,,"Liver condition (0-No, 1-Yes)",1,Liver condition
+Laboratory_Phosphorus,Phosphorus (mmol/L),"Phosphorus, serum (mmol/L)",,"Phosphorus, serum"
+Questionnaire_TriedToLoseWeight_2.0,,"Tried to lose weight in past year (0-No, 1-Yes)",1,Tried to lose weight in past year
+Questionnaire_DoctorHeartAttack_2.0,,"Heart attack (0-No, 1-Yes)",1,Heart attack
+Examination_BPSystolic2,Systolic: Blood pres (2nd rdg) mm Hg,Systolic: Blood pres (2nd rdg) mm Hg,,Systolic: Blood pres (2nd rdg)
+Laboratory_Hemoglobin,Hemoglobin (g/dL),"Hemoglobin, serum (g/dL)",,"Hemoglobin, serum"
+Questionnaire_HeadChestCold_2.0,,"Had a head cold or chest cold that started during those 30 days (0-No, 1-Yes)",1,Had a head cold or chest cold that started during those 30 days
+Questionnaire_ConsiderWeight_2.0,,How do you consider your weight (Underweight),,How do you consider your weight (Underweight)
+Questionnaire_HealthComparedToYearAgo_2.0,,Health now compared with 1 year ago (Better),,Health now compared with 1 year ago (Better)
+Demographics_Citizenship_2.0,,Not a citizen of the US,,Not a citizen of the US
+Questionnaire_ShortnessOfBreath_2.0,,"Shortness of breath on stairs/inclines (0-No, 1-Yes)",1,Shortness of breath on stairs/inclines
+Examination_BPArmSelected_2.0,,"Arm selected (0-Right, 1-Left)",,Arm selected
+Questionnaire_DoctorAngina_2.0,,"Angina (0-No, 1-Yes)",1,Angina
+Laboratory_MeanPlateletVolume,Mean platelet volume (fL),Mean platelet volume (fL),,Mean platelet volume
+Questionnaire_LongestJobDuration,Duration of longest job (months),Duration of longest job (months),,Duration of longest job
+Questionnaire_ExamSession_1.0,,Session in which SP was examined (morning),,Session in which SP was examined (morning)
+Laboratory_TotalProtein,Total protein (g/dL),"Total protein, serum (g/dL)",,"Total protein, serum"
+Questionnaire_100Cigarettes_2.0,,"Smoked at least 100 cigarettes in life (0-No, 1-Yes)",1,Smoked at least 100 cigarettes in life
+Laboratory_Creatinine,Creatinine (umol/L),"Creatinine, serum (umol/L)",,"Creatinine, serum"
+Laboratory_Potassium,Potassium (mmol/L),"Potassium, serum (mmol/L)",,"Potassium, serum"
+Demographics_MaritalStatus_3.0,,Marital Status (Divorced),,Marital Status (Divorced)
+Demographics_RaceEthnicity_5.0,,Race (Other Race),,Race (Other Race)
+Questionnaire_DoctorChronicBronchitis_2.0,,"Chronic bronchitis (0-No, 1-Yes)",1,Chronic bronchitis
+Laboratory_IronSI,"Iron, refrigerated serum (umol/L)","Iron, refrigerated serum (umol/L)",,"Iron, refrigerated serum"
+Questionnaire_HIVTest_2.0,,"Blood ever tested for HIV virus (0-No, 1-Yes)",1,Blood ever tested for HIV virus
+Questionnaire_DoctorEmphysema_2.0,,"Emphysema (0-No, 1-Yes)",1,Emphysema
+Laboratory_CalciumSI,Total calcium (mmol/L),"Total calcium, serum (mmol/L)",,"Total calcium, serum"
+Examination_Height,Standing Height (cm),Standing Height (cm),,Standing Height
+Questionnaire_SelfReportedWeight1YrAgo,Self-reported weight - 1 yr ago (pounds),Self-reported weight - 1 yr ago (pounds),,Self-reported weight - 1 yr ago
+Questionnaire_AlcoholFreqDays,Avg # alcoholic drinks/day - past 12 mos,Avg # alcoholic drinks/day - past 12 mos,,Avg # alcoholic drinks/day - past 12 mos
+Laboratory_Monocyte,Monocyte number (1000 cells/uL),Monocyte number (1000 cells/uL),,Monocyte number
+Questionnaire_JobDescription_2.0,,Job Description (A federal government employee),,Job Description (A federal government employee)
+Questionnaire_SelfReportedGreatestWeight,Self-reported greatest weight (pounds),Self-reported greatest weight (pounds),,Self-reported greatest weight
+Questionnaire_SelfReportedHeight,Current self-reported height (inches),Current self-reported height (inches),,Current self-reported height
+Examination_BPCuffSize,Coded cuff size,Coded cuff size,,Coded cuff size
+Questionnaire_MentalHealthProfessional_2.0,,"Seen mental health professional/past yr (0-No, 1-Yes)",1,Seen mental health professional/past yr
+Questionnaire_StomachIllness_2.0,,"Stomach or intestinal illness  during those 30 days (0-No, 1-Yes)",1,Stomach or intestinal illness  during those 30 days
+Demographics_RaceEthnicity_3.0,,Race (Non-Hispanic White),,Race (Non-Hispanic White)
+Examination_BPPulseType_2.0,,Pulse type (Brachial),,Pulse type (Brachial)
+Questionnaire_HomeOwnBoughtRent_3.0,,"Home owned, bought, rented, other (Other arrangement)",,"Home owned, bought, rented, other (Other arrangement)"
+Questionnaire_HealthComparedToYearAgo_3.0,,Health now compared with 1 year ago (Worse),,Health now compared with 1 year ago (Worse)
+Laboratory_WhiteBloodCellCount,White blood cell count (1000 cells/uL),White blood cell count (1000 cells/uL),,White blood cell count
+Questionnaire_Arthritis_2.0,,"Arthritis (0-No, 1-Yes)",1,Arthritis
+Examination_BPDiastolic2,Diastolic: Blood pres (2nd rdg) mm Hg,Diastolic: Blood pres (2nd rdg) mm Hg,,Diastolic: Blood pres (2nd rdg)
+Questionnaire_HepB3DoseSeries,Received Hepatitis B 3 dose series,Received Hepatitis B 3 dose series,,Received Hepatitis B 3 dose series
+Questionnaire_Asthma_2.0,,"Asthma (0-No, 1-Yes)",1,Asthma
+Questionnaire_JobMonths,Number of months working in the main job,Number of months working in the main job,,Number of months working in the main job
+Laboratory_RedCellDistributionWidth,Red cell distribution width (%),Red cell distribution width (%),,Red cell distribution width
+Demographics_RaceEthnicity_4.0,,Race (Non-Hispanic Black),,Race (Non-Hispanic Black)
+Questionnaire_JobDescription_4.0,,Job Description (A local government employee),,Job Description (A local government employee)
+Questionnaire_RoomsInHome,Number of rooms in home,Number of rooms in home,,Number of rooms in home
+Examination_ExBPMaxInflationLevel,MIL: maximum inflation levels (mm Hg),MIL: maximum inflation levels (mm Hg),,MIL: maximum inflation levels
+Laboratory_Sodium,Sodium (mmol/L),"Sodium, serum (mmol/L)",,"Sodium, serum"
+Questionnaire_HighBloodPressure_2.0,,"High blood pressure (0-No, 1-Yes)",1,High blood pressure
+Laboratory_MonocytePercent,Monocyte percent (%),Monocyte percent (%),,Monocyte percent
+Examination_BMI,Body Mass Index (kg/m**2),Body Mass Index (kg/m**2),,Body Mass Index
