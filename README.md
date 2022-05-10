@@ -38,7 +38,7 @@ The input feature list can be also obtained by
 - `mortality_risk_scores_feature_elimination.ipynb`: code for mortality risk scores training and feature elimination
 - `supervised_distance_feature_elimination.ipynb`: code for supervised distance calculation and supervised distance-based feature elimination approach
 ### Visualization
-`supervised_distance_feature_elimination.ipynb` process results from the IMPACT framework and generate figures presented in the paper:
+`visualization.ipynb` process results from the IMPACT framework and generate figures presented in the paper:
 - SHAP summary plot
 - SHAP values plot
 - SHAP main effect plot: please calculate the SHAP interaction values using `shap_NHANES_classification.py` before generating the SHAP main effect plot
