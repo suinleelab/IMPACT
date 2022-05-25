@@ -54,7 +54,7 @@ This software was originally designed with Python 3.6.13. Standard python softwa
 
 ## References
 
-If you find contrastiveVI useful for your work, please consider citing our preprent:
+If you find IMPACT useful for your work, please consider citing our preprent:
 
 ```
 @article{qiu2022interpretable,
