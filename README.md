@@ -1,6 +1,6 @@
 # IMPACT
 This repository provides the dataset, models and code for paper "Interpretable machine learning prediction of all-cause mortality".
-Code for paper "Interpretable machine learning prediction of all-cause mortality". Please read our preprint at the following link: https://www.medrxiv.org/content/10.1101/2021.01.20.21250135v2
+Please read our preprint at the following link: https://www.medrxiv.org/content/10.1101/2021.01.20.21250135v2
 
 
 ## Data
